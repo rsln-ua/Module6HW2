@@ -1,5 +1,4 @@
 using AutoMapper;
-using Catalog.Host.Configurations;
 using Catalog.Host.Data;
 using Catalog.Host.Models.Dtos;
 using Catalog.Host.Models.Response;
