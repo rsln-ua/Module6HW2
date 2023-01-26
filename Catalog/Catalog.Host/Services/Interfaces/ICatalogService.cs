@@ -1,3 +1,4 @@
+using Catalog.Host.Data.Entities;
 using Catalog.Host.Models.Dtos;
 using Catalog.Host.Models.Response;
 
